@@ -1,0 +1,28 @@
+{
+  "rubenfgr": {},
+  "rubenfgr-doc": {
+    "node": [
+      {
+        "name": "",
+        "repository": ""
+      }
+    ]
+  },
+  "rubenfgr-study": [
+    {
+      "technology": "angular",
+      "courses": [
+        {
+          "platform": "Udemy",
+          "course": "Angular: De cero a experto - (Edición 2021)",
+          "repositories": [
+            {
+              "name": "Angular bases",
+              "repository": "git@github.com:rubenfgr-study/ud-fh-2021-angular-bases.git"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
